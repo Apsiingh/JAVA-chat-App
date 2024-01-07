@@ -15,4 +15,14 @@ This is a simple Java-based chat application that uses socket programming for co
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-chat-socket-programming.git
+   git clone https://github.com/Apsiingh/JAVA-chat-App.git
+
+
+### Usage
+- Launch the server first.
+- Run multiple client instances.
+- Enter a username when prompted.
+- Start chatting!
+
+## Contributing
+If you'd like to contribute to this project, please follow the standard GitHub fork and pull request process. Contributions, issues, and feature requests are welcome!
